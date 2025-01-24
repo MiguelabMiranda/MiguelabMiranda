@@ -1,16 +1,14 @@
-## Hi there 👋
+# Meu Projeto no GitHub
 
-<!--
-**MiguelabMiranda/MiguelabMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Próximos Passos
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ![HTML e CSS](https://img.shields.io/badge/HTML%20%26%20CSS-333333?style=flat&logo=html5) Lógica em HTML e CSS
+- ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript) Lógica em JavaScript
+- ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python) Lógica em Python
+- ![Design de Testes](https://img.shields.io/badge/Design%20de%20Testes-333333?style=flat&logo=test) Design de Testes
+- ![Testes Web](https://img.shields.io/badge/Testes%20Web-333333?style=flat&logo=selenium) Testes Web
+- ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman) Testes com Postman
+- ![SQL/Banco de Dados](https://img.shields.io/badge/SQL%2FBanco%20de%20Dados-333333?style=flat&logo=postgresql) SQL/Banco de Dados
+- ![Ágil](https://img.shields.io/badge/%C3%81gil-333333?style=flat&logo=agile) Ágil
+- ![SCRUM](https://img.shields.io/badge/SCRUM-333333?style=flat&logo=scrum) SCRUM
+- ![JIRA](https://img.shields.io/badge/JIRA-333333?style=flat&logo=jira) JIRA
