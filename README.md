@@ -1,14 +1,63 @@
-# Meu Projeto no GitHub
+<div style="display: flex; justify-content: space-around; align-items: center;">
 
-## Próximos Passos
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  </a>
 
-- ![HTML e CSS](https://img.shields.io/badge/HTML%20%26%20CSS-333333?style=flat&logo=html5) Lógica em HTML e CSS
-- ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript) Lógica em JavaScript
-- ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python) Lógica em Python
-- ![Design de Testes](https://img.shields.io/badge/Design%20de%20Testes-333333?style=flat&logo=test) Design de Testes
-- ![Testes Web](https://img.shields.io/badge/Testes%20Web-333333?style=flat&logo=selenium) Testes Web
-- ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman) Testes com Postman
-- ![SQL/Banco de Dados](https://img.shields.io/badge/SQL%2FBanco%20de%20Dados-333333?style=flat&logo=postgresql) SQL/Banco de Dados
-- ![Ágil](https://img.shields.io/badge/%C3%81gil-333333?style=flat&logo=agile) Ágil
-- ![SCRUM](https://img.shields.io/badge/SCRUM-333333?style=flat&logo=scrum) SCRUM
-- ![JIRA](https://img.shields.io/badge/JIRA-333333?style=flat&logo=jira) JIRA
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  </a>
+
+  <!-- Jira -->
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/>
+  </a>
+
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+
+  <!-- Cypress -->
+  <a href="https://www.cypress.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+
+  <!-- CSS3 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+
+  <!-- k6 -->
+  <a href="https://k6.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" alt="k6" width="40" height="40"/>
+  </a>
+
+</div>
